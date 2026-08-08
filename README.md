@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Devansh Jagtap
 
-I’m a **final-year Computer Science student and frontend-focused full-stack developer from India**, interested in building well-structured, real-world web applications.
+I’m a **Full-stack Developer from India**, interested in building well-structured, real-world web applications.
 
-I mainly work with **Next.js, React, TypeScript, and Node.js**, and I have experience shipping features for **live products**, not just demos. I enjoy working close to the UI layer thinking about **component design, performance, and clean state management** while also being comfortable wiring up backends with **APIs, authentication, and databases**.
+I mainly work with **Next.js, React and Node.js**, and I have experience shipping features for **live products**, not just demos. I enjoy working close to the UI layer thinking about **component design, performance, and clean state management** while also being comfortable wiring up backends with **APIs, authentication, and databases**.
 
 My recent work has involved building **AI-powered features** such as resume analysis, content generation, and smart dashboards, with a focus on **integrating AI into real products** instead of isolated experiments.
 
